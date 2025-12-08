@@ -135,7 +135,7 @@ interests:
 
 > Production-ready LLM serving platform with enterprise monitoring & batch orchestration
 
-- ✅ `3,260 lines` production code
+- ✅ Enhanced monitoring & batch Agentic Infernce 
 - ✅ `100% test coverage` (85 tests)
 - ✅ `50x faster` scheduling
 - ✅ Prometheus, health checks, auto-retry

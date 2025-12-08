@@ -3,13 +3,14 @@
 </h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/shreyash130197/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:shreyasgondane@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/Shreyasg13"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=4285F4&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Shreyasg13&color=4285F4&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Shreyasg13?label=Followers&style=flat-square&color=4285F4" alt="Followers"/>
 </p>
 
 ---
@@ -82,8 +83,24 @@ interests:
 
 ## 🛠️ Tech Stack
 
+### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,typescript,go,rust&theme=dark" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,java,typescript,go,rust,bash&theme=dark" alt="Languages"/>
+</p>
+
+### Cloud & Infrastructure
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions&theme=dark" alt="Cloud"/>
+</p>
+
+### Databases & Observability
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,prometheus,grafana&theme=dark" alt="Databases"/>
+</p>
+
+### ML/AI & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,flask&theme=dark" alt="ML"/>
 </p>
 
 <details>
@@ -92,13 +109,13 @@ interests:
 
 | Category | Technologies |
 |----------|--------------|
-| **Languages** | Python (Primary), Java 11, TypeScript/Node, Go, SQL, Bash, C/C++ |
-| **ML/AI** | RAG, LangChain, OpenAI, Claude, Bedrock, Titan Embeddings, Vector DBs |
-| **Cloud** | AWS (EKS, Lambda, S3, DynamoDB, Aurora, Step Functions, SQS, SNS) |
-| **Infrastructure** | Terraform, Docker, Kubernetes, Helm, GitHub Actions |
-| **Databases** | PostgreSQL, MySQL, Redis, DynamoDB, OpenSearch |
-| **Observability** | Prometheus, OpenTelemetry, Grafana, CloudWatch, Loki |
-| **Security** | OAuth2, OIDC, SAML, SSO, MFA, KMS, IAM |
+| **Languages** | Python (Primary), Java 11, TypeScript/Node, Go, SQL, Bash, C/C++, Rust |
+| **ML/AI** | RAG, LangChain, OpenAI, Claude, AWS Bedrock, Titan Embeddings, Vector DBs |
+| **Cloud** | AWS (EKS, Lambda, S3, DynamoDB, Aurora, Step Functions, SQS, SNS, CloudFront) |
+| **Infrastructure** | Terraform, Docker, Kubernetes, Helm, GitHub Actions, Jenkins |
+| **Databases** | PostgreSQL, MySQL, Redis, DynamoDB, OpenSearch, MongoDB |
+| **Observability** | Prometheus, OpenTelemetry, Grafana, AWS CloudWatch, Datadog, Loki |
+| **Security** | OAuth2, OIDC, SAML, SSO, MFA, AWS KMS, IAM, PGP |
 
 </details>
 
@@ -106,23 +123,32 @@ interests:
 
 ## 📌 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Shreyasg13/llm-engine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyasg13&repo=llm-engine&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Shreyasg13/sci-discovery-agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyasg13&repo=sci-discovery-agent&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Shreyasg13/Voice-Assistant-with-OpenAI-GPT-3.5-Turbo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyasg13&repo=Voice-Assistant-with-OpenAI-GPT-3.5-Turbo&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Shreyasg13/ChatBot-for-QNA-in-Automobile-Industry">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyasg13&repo=ChatBot-for-QNA-in-Automobile-Industry&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%">
+<a href="https://github.com/Shreyasg13/llm-engine">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyasg13&repo=llm-engine&theme=tokyonight&hide_border=true" width="100%"/>
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/Shreyasg13/sci-discovery-agent">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyasg13&repo=sci-discovery-agent&theme=tokyonight&hide_border=true" width="100%"/>
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/Shreyasg13/Voice-Assistant-with-OpenAI-GPT-3.5-Turbo">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyasg13&repo=Voice-Assistant-with-OpenAI-GPT-3.5-Turbo&theme=tokyonight&hide_border=true" width="100%"/>
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/Shreyasg13/ChatBot-for-QNA-in-Automobile-Industry">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyasg13&repo=ChatBot-for-QNA-in-Automobile-Industry&theme=tokyonight&hide_border=true" width="100%"/>
+</a>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -169,8 +195,21 @@ interests:
 | [Data Structures & Algorithms](https://github.com/Shreyasg13/Data-Structures-and-Algorithms) | LeetCode solutions for coding interviews | Python |
 
 </details>
-```
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shreyasg13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyasg13&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyasg13&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+</p>
+
+---
 
 ## 📚 Research & Publications
 
@@ -180,20 +219,19 @@ interests:
 | 📄 **ML-Based Password Authentication using Keystroke Biometrics** | AI Conference | Springer |
 | 📄 **A CNN and IoT Based Approach to Surveillance** | ICICCD 2018 | Springer, Singapore |
 
-
 ---
 
 ## 🎯 Impact Highlights
 
 ```
-┌───────────────────────────────────────────────────────────────┐
-│  📈 15 days → 5 mins    Document processing automation        │
-│  🎯 97% accuracy        Field-level extraction (from 90%)     │
-│  💬 1.2M Autoreply      Production Garde AI services          │
-│  ⚡ 42% reduction       in Hallucinations via RAG guardrails  │
-│  📊 99.9% uptime        SLO with auto-scaling                 │
-│  👥  engineers          Team leadership & mentorship          │
-└───────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────┐
+│  📈 15 days → 5 mins    Document processing automation         │
+│  🎯 97% accuracy        Field-level extraction (from 90%)      │
+│  💬 1.2M chats/month    Production-grade AI services           │
+│  ⚡ 42% reduction       Hallucinations via RAG guardrails      │
+│  📊 99.9% uptime        SLO with auto-scaling                  │
+│  👥 Lead Engineer        Team leadership & mentorship          │
+└────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -201,7 +239,7 @@ interests:
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/shreyash130197/)">
+  <a href="https://www.linkedin.com/in/shreyash130197/">
     <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>

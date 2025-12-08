@@ -25,7 +25,6 @@ focus: ML/AI Backend Systems • Distributed Systems • FinTech • Software Ar
 current:
   - Building AI-driven document automation platforms
   - Designing RAG pipelines at scale (1.2M+ requests/month)
-  - Leading teams of 21 engineers
 
 interests:
   - Production ML Infrastructure

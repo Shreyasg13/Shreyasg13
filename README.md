@@ -181,11 +181,11 @@ interests:
 [![Repo](https://img.shields.io/badge/GitHub-ChatBot--QNA-181717?style=for-the-badge&logo=github)](https://github.com/Shreyasg13/ChatBot-for-QNA-in-Automobile-Industry)
 [![Published](https://img.shields.io/badge/Published-Springer-orange?style=flat-square)](https://github.com/Shreyasg13/ChatBot-for-QNA-in-Automobile-Industry)
 
-> NLP chatbot for customer service (Published: RAAI 2020, Springer)
+> NLP chatbot for customer service (Published: Research | ICITSD-2021)
 
-- 📄 Research paper @ Springer
+- 📄 Research paper @ ICITSD-2021
 - 🚗 Domain-specific NLP
-- 💬 Customer service automation
+- 💬 Customer service AI automation 
 - 🤖 Automobile industry focus
 
 </td>
@@ -233,7 +233,7 @@ interests:
 ---
 
 ### 🏅 [ChatBot for QNA — Automobile Industry](https://github.com/Shreyasg13/ChatBot-for-QNA-in-Automobile-Industry)
-> NLP-based customer service chatbot (Published: RAAI 2020, Springer)
+> NLP-based customer service chatbot (Research: ICITSD-2021)
 
 - 📄 Research paper published at Springer
 - 🚗 Domain-specific NLP for the automobile industry
@@ -270,9 +270,9 @@ interests:
 
 | Paper | Conference | Publisher |
 |-------|------------|-----------|
-| 📄 **Virtual Assistant Chatbot Architecture based on NLP** | RAAI 2020 | Springer |
+| 📄 **Virtual Assistant Chatbot Architecture based on NLP** | Research | ICITSD-2021 |
 | 📄 **ML-Based Password Authentication using Keystroke Biometrics** | AI Conference | Springer |
-| 📄 **A CNN and IoT Based Approach to Surveillance** | ICICCD 2018 | Springer, Singapore |
+| 📄 **A CNN and IoT Based Approach to Surveillance** |  ICICCD 2020 | Springer, Singapore |
 
 ---
 

@@ -271,7 +271,7 @@ interests:
 | Paper | Conference | Publisher |
 |-------|------------|-----------|
 | 📄 **Virtual Assistant Chatbot Architecture based on NLP** | Research | ICITSD-2021 |
-| 📄 **ML-Based Password Authentication using Keystroke Biometrics** | AI Conference | Springer |
+| 📄 **ML-Based Password Authentication using Keystroke Biometrics** | AI Conference | IEEE |
 | 📄 **A CNN and IoT Based Approach to Surveillance** |  ICICCD 2020 | Springer, Singapore |
 
 ---

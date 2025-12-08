@@ -111,32 +111,67 @@ interests:
   <a href="https://github.com/Shreyasg13/llm-engine">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyasg13&repo=llm-engine&theme=tokyonight&hide_border=true" />
   </a>
+  <a href="https://github.com/Shreyasg13/sci-discovery-agent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyasg13&repo=sci-discovery-agent&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Shreyasg13/Voice-Assistant-with-OpenAI-GPT-3.5-Turbo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyasg13&repo=Voice-Assistant-with-OpenAI-GPT-3.5-Turbo&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Shreyasg13/ChatBot-for-QNA-in-Automobile-Industry">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyasg13&repo=ChatBot-for-QNA-in-Automobile-Industry&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
 ### 🥇 [LLM Engine — Enhanced Fork](https://github.com/Shreyasg13/llm-engine)
-Production-ready LLM serving platform with enterprise monitoring & batch orchestration
-- `3,260 lines` production code | `100% test coverage` | `50x faster` scheduling
+> Production-ready LLM serving platform with enterprise monitoring & batch orchestration
 
----
-
-### 🥈 [OpenDLA — Deep Learning Analyzer](https://github.com/Shreyasg13/OpenDLA)
-Unified open-source library for ML framework analysis (Scikit-learn, PyTorch, Keras, TensorFlow)
-- Factory Method design pattern | OOP architecture | Multi-classifier support
-
----
-
-### 🥉 [Voice Assistant GPT](https://github.com/Shreyasg13/voice-assistant)
-GPT-powered voice assistant with real-time STT/TTS — built before OpenAI's voice module release
-- Low latency | Context-aware responses | Extensible architecture
-
-### [LLM Engine — Enhanced Fork](https://github.com/Shreyasg13/llm-engine)
-> Production-ready LLM serving platform with enterprise monitoring and batch orchestration
-
-- ✅ **3,260 lines** of production code with **100% test coverage**
-- ✅ **50x faster** job scheduling (5s → 0.1s)
-- ✅ Enterprise monitoring stack (Prometheus, health checks, structured logging)
+- ✅ `3,260 lines` production code | `100% test coverage` | `50x faster` scheduling
+- ✅ Enterprise monitoring (Prometheus, health checks, structured logging)
 - ✅ Batch job orchestrator with priority queuing and auto-retry
+
 ---
+
+### 🥈 [Sci Discovery Agent](https://github.com/Shreyasg13/sci-discovery-agent)
+> AI-powered scientific discovery agent infrastructure
+
+- 🔬 Autonomous research agent architecture
+- 🧠 Multi-model orchestration for scientific analysis
+
+---
+
+### 🥉 [Voice Assistant GPT](https://github.com/Shreyasg13/Voice-Assistant-with-OpenAI-GPT-3.5-Turbo)
+> GPT-powered voice assistant — built before OpenAI's voice module release
+
+- 🎙️ Real-time STT/TTS with GPT-3.5/4 integration
+- ⚡ Low latency | Context-aware responses
+
+---
+
+### 🏅 [ChatBot for QNA — Automobile Industry](https://github.com/Shreyasg13/ChatBot-for-QNA-in-Automobile-Industry)
+> NLP-based customer service chatbot (Published: RAAI 2020, Springer)
+
+- 📄 Research paper published at Springer
+- 🚗 Domain-specific NLP for the automobile industry
+
+---
+
+<details>
+<summary><b>📂 More Projects</b></summary>
+<br>
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Axiom Agentic Platform](https://github.com/Shreyasg13/axiom-agentic-platform) | Agentic AI platform infrastructure | PowerShell |
+| [Data Structures & Algorithms](https://github.com/Shreyasg13/Data-Structures-and-Algorithms) | LeetCode solutions for coding interviews | Python |
+
+</details>
+```
+
 
 ## 📚 Research & Publications
 

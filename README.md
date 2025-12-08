@@ -125,30 +125,85 @@ interests:
 
 <table>
 <tr>
-<td width="50%">
-<a href="https://github.com/Shreyasg13/llm-engine">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyasg13&repo=llm-engine&theme=tokyonight&hide_border=true" width="100%"/>
-</a>
+<td width="50%" valign="top">
+
+### 🥇 [LLM Engine — Enhanced Fork](https://github.com/Shreyasg13/llm-engine)
+
+[![Repo](https://img.shields.io/badge/GitHub-llm--engine-181717?style=for-the-badge&logo=github)](https://github.com/Shreyasg13/llm-engine)
+[![Python](https://img.shields.io/badge/Python-99.2%25-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/Shreyasg13/llm-engine)
+[![License](https://img.shields.io/badge/License-Apache%202.0-green?style=flat-square)](https://github.com/Shreyasg13/llm-engine/blob/main/LICENSE)
+
+> Production-ready LLM serving platform with enterprise monitoring & batch orchestration
+
+- ✅ `3,260 lines` production code
+- ✅ `100% test coverage` (85 tests)
+- ✅ `50x faster` scheduling
+- ✅ Prometheus, health checks, auto-retry
+
 </td>
-<td width="50%">
-<a href="https://github.com/Shreyasg13/sci-discovery-agent">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyasg13&repo=sci-discovery-agent&theme=tokyonight&hide_border=true" width="100%"/>
-</a>
+<td width="50%" valign="top">
+
+### 🥈 [Sci Discovery Agent](https://github.com/Shreyasg13/sci-discovery-agent)
+
+[![Repo](https://img.shields.io/badge/GitHub-sci--discovery--agent-181717?style=for-the-badge&logo=github)](https://github.com/Shreyasg13/sci-discovery-agent)
+[![Python](https://img.shields.io/badge/Python-100%25-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/Shreyasg13/sci-discovery-agent)
+
+> AI-powered scientific discovery agent infrastructure
+
+- 🔬 Autonomous research agent
+- 🧠 Multi-model orchestration
+- 📊 Scientific analysis pipeline
+- 🚀 Agentic AI architecture
+
 </td>
 </tr>
 <tr>
-<td width="50%">
-<a href="https://github.com/Shreyasg13/Voice-Assistant-with-OpenAI-GPT-3.5-Turbo">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyasg13&repo=Voice-Assistant-with-OpenAI-GPT-3.5-Turbo&theme=tokyonight&hide_border=true" width="100%"/>
-</a>
+<td width="50%" valign="top">
+
+### 🥉 [Voice Assistant GPT](https://github.com/Shreyasg13/Voice-Assistant-with-OpenAI-GPT-3.5-Turbo)
+
+[![Repo](https://img.shields.io/badge/GitHub-Voice--Assistant-181717?style=for-the-badge&logo=github)](https://github.com/Shreyasg13/Voice-Assistant-with-OpenAI-GPT-3.5-Turbo)
+[![Python](https://img.shields.io/badge/Python-100%25-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/Shreyasg13/Voice-Assistant-with-OpenAI-GPT-3.5-Turbo)
+[![Stars](https://img.shields.io/github/stars/Shreyasg13/Voice-Assistant-with-OpenAI-GPT-3.5-Turbo?style=flat-square&color=yellow)](https://github.com/Shreyasg13/Voice-Assistant-with-OpenAI-GPT-3.5-Turbo)
+
+> GPT-powered voice assistant — built before OpenAI's voice module
+
+- 🎙️ Real-time STT/TTS
+- ⚡ GPT-3.5/4 integration
+- 🔊 Low latency responses
+- 🧩 Extensible architecture
+
 </td>
-<td width="50%">
-<a href="https://github.com/Shreyasg13/ChatBot-for-QNA-in-Automobile-Industry">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyasg13&repo=ChatBot-for-QNA-in-Automobile-Industry&theme=tokyonight&hide_border=true" width="100%"/>
-</a>
+<td width="50%" valign="top">
+
+### 🏅 [ChatBot for QNA — Automobile](https://github.com/Shreyasg13/ChatBot-for-QNA-in-Automobile-Industry)
+
+[![Repo](https://img.shields.io/badge/GitHub-ChatBot--QNA-181717?style=for-the-badge&logo=github)](https://github.com/Shreyasg13/ChatBot-for-QNA-in-Automobile-Industry)
+[![Published](https://img.shields.io/badge/Published-Springer-orange?style=flat-square)](https://github.com/Shreyasg13/ChatBot-for-QNA-in-Automobile-Industry)
+
+> NLP chatbot for customer service (Published: RAAI 2020, Springer)
+
+- 📄 Research paper @ Springer
+- 🚗 Domain-specific NLP
+- 💬 Customer service automation
+- 🤖 Automobile industry focus
+
 </td>
 </tr>
 </table>
+
+---
+
+<details>
+<summary><b>📂 More Projects</b></summary>
+<br>
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [![Axiom](https://img.shields.io/badge/Axiom_Agentic_Platform-181717?style=flat-square&logo=github)](https://github.com/Shreyasg13/axiom-agentic-platform) | Agentic AI platform infrastructure | PowerShell |
+| [![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-181717?style=flat-square&logo=github)](https://github.com/Shreyasg13/Data-Structures-and-Algorithms) | LeetCode solutions for coding interviews | Python |
+
+</details>
 
 ---
 
